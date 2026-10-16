@@ -59,4 +59,4 @@ It uses 2,000 time steps and 16 noise levels between 0.01 and 10. Each method us
 
 The paper's CE curve shows the median estimated CoV over 20 independent repetitions. This notebook uses only one CE run at each noise level, so its curve may fluctuate more.
 
-The notebook uses fixed random seeds. The results should show similar behavior to the paper, but the numerical values may differ.
+The notebook uses fixed random seeds. The results should show similar behavior to the paper.
