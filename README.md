@@ -2,7 +2,7 @@
 
 This repository compares importance sampling methods for estimating a rare-event probability in a two-dimensional stochastic differential equation (SDE). It is accompanying the paper
 
-*Beyond exponential tilting: sharp asymptotics and improved importance sampling for rare events* by M Li, H Reimann, T Schorlepp and G Stadler; arXiv:
+*Beyond exponential tilting: sharp asymptotics and improved importance sampling for rare events* by M Li, H Reimann, T Schorlepp and G Stadler; [arXiv:2610.27434](https://arxiv.org/abs/2610.27434)
 
 ## Problem
 
